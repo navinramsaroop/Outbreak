@@ -11,8 +11,7 @@ Welcome to Outbreak! Bear with the glitches.... Use the arrow keys to move your 
 4. d = shoot bullets left 
 5. arrow keys: move player around 
 6. Space: Pause Game
-
-number keys 1-5: switch players during the game
+7. number keys 1-5: switch players during the game
 
 ## How to Start Game
 Run `java Game.class`
