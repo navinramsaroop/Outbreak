@@ -14,4 +14,4 @@ Welcome to Outbreak! Bear with the glitches.... Use the arrow keys to move your 
 7. number keys 1-5: switch players during the game
 
 ## How to Start Game
-Run `java Game.class`
+Run `java -jar Outbreak.jar` while in the Outbreak directory
